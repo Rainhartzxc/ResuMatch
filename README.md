@@ -1,8 +1,9 @@
 ResuMatch: Intelligent Candidate and Company Qualification Matcher
 
 Version: 1.0
-Author: [Group 4 Resumatch] Lead Programmer: Aldridge Rainhart C. Elumacas
-UI/UX: Danniel Paul Molleno
+Author: [Group 4 Resumatch]
+Lead Programmer: Aldridge Rainhart C. Elumacas
+UI/UX: Danniel Paul Molleno 
 Other Members:
 Rebecca Gomez
 John Dave Silva
